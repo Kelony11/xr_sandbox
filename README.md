@@ -5,9 +5,9 @@ XRSandbox is a browser-based WebXR project built with Three.js and Cannon-es. It
 
 ## LIVE DEMO
 <div align="center">
-  <video src="../media/part1.mp4" alt="" width="900" controls></video>
+  <video src="media/part1.mp4" alt="" width="900" controls></video>
   <br/>
-  <video src="../media/part2.mp4" alt="" width="900" controls></video>
+  <video src="media/part2.mp4" alt="" width="900" controls></video>
 
 </div>
 
