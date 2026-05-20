@@ -4,7 +4,7 @@ XRSandbox is a browser-based WebXR project built with Three.js and Cannon-es. It
 
 
 ## LIVE DEMO
-**The recorded videos can be found in the media folder as named:**
+**The recorded videos can be found in the `media` folder as named:**
 - `part1.mp4`
 - `part2.mp4`
 
